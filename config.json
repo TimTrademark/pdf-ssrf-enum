@@ -1,0 +1,8 @@
+{
+  "TARGET": "https://127.0.0.1",
+  "PDF_GEN_PATH": "/pdf/generate",
+  "ENDPOINTS_PER_REQUEST": 10,
+  "BASELINE_LEN_THRESHOLD": "1500",
+  "USE_REGEX": true,
+  "REGEX_NOT_FOUND": "404 Not Found"
+}
